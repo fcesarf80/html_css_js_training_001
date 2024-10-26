@@ -1,0 +1,42 @@
+body{
+    background-color:#1fbfb2;
+}
+h1{
+    color: rgb(208, 255, 0);
+    font-family: Arial;
+    font-size: 35px;
+    font-style: italic;
+    text-align: left;
+    text-indent: 20px;
+}
+/*Esse é o comentario CSS*/
+h2 {
+    font-family: Arial;
+    font-size: 25px;
+    text-align: left;
+    text-indent: 20px;
+}
+p{
+    font-size: 25px;
+}
+h3{
+    text-transform: capitalize;
+    font-style: oblique;
+    font-size: 25px;
+    text-align: left;
+    text-indent: 20px;
+}
+.destaq{
+    color: #00126d;
+    font-weight: bold;
+}
+.destaq2{
+    font-size: 25px;
+    text-align: left;
+    text-indent: 20px;
+}
+#destaq{
+    color: #7b2506;
+    font-size: 25px;
+    font-weight: bold;
+}
